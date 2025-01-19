@@ -22,6 +22,16 @@ Learning Outcomes
 
 Mastered advanced SQL techniques, including CTEs, recursive queries, and aggregate functions.
 
+## How to Use
+- on BeeKeeper studio click on import URL and past the string link bellow 
+- connection string:
+  postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/vibestream?sslmode=require
+- click on import and activate Enable ssl
+## Contact
+Feel free to reach out if you have questions or suggestions: www.linkedin.com/in/
+mermoul-badis-0a351a249
+
+
 Analyzed complex user behavior and network patterns.
 
 Gained insights into user engagement and network connectivity.
